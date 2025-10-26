@@ -1,1 +1,1 @@
-<h1>OpenForgeLabs - Hub for Open Source Projects & Tools </h1>
+<h1>OpenForgeLabs - Hub for Open Source Projects, Infra & Tools </h1>
